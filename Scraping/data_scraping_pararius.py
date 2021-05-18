@@ -33,8 +33,6 @@ bs4 = browser.get_current_page()
 
 #get text from all advertisements & convert to csv
 ads = bs4.find_all("li", class_ = "search-list__item search-list__item--listing")
-#with open('pararius_scraped.csv', 'w', newline = '') as csvfile:
-#    writer = csv.writer(csvfile)
 
 df = pd.DataFrame(columns = ['Address', 'Postcode', 'Size', 'Rooms', 'Prize'])
 for ad in ads:
@@ -66,7 +64,7 @@ for ad in ads:
 
 #for all 85 pages
 current_value = 2
-while current_value <= 80:
+while current_value <= 84:
     new_link = "/page-" + str(current_value) 
     browser.follow_link(new_link)
     bs4 = browser.get_current_page()
@@ -97,7 +95,7 @@ while current_value <= 80:
         df = df.append(pd.DataFrame(summary, columns = ['Address', 'Postcode', 'Size', 'Rooms', 'Prize']))
     current_value += 1
 
-#df.to_csv('pararius_scraped.csv')
+df.to_csv('pararius_scraped.csv')
 print(df.head())
 
 #was alternative: 

@@ -1,12 +1,12 @@
 ,Address,Postcode,Size,Rooms,Prize
-0,"Apartment Jasonstraat 27 H
+0,"Apartment Groenburgwal 47 3
 
 
-                       ", 1076 KX ,"
-65 m²
+                       ", 1011 HS ,"
+40 m²
 Living area","
-3
-Rooms"," €5,000 per month"
+2
+Rooms"," €2,200 per month"
 0,"Apartment Molenpad
 
 
@@ -14,6 +14,194 @@ Rooms"," €5,000 per month"
 47 m²
 Living area","
 2
+Rooms"," €2,500 per month"
+0,, 1079 DE ,"
+81 m²
+Living area","
+3
+Rooms"," €3,150 per month"
+0,"Apartment Jekerstraat
+
+
+new
+                       ", 1078 MC ,"
+76 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment President Kennedylaan
+
+
+new
+                       ", 1079 NN ,"
+50 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Rozenstraat
+
+
+new
+                       ", 1016 PB ,"
+30 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Jan Olphert Vaillantlaan
+
+
+new
+                       ", 1086 ZA ,"
+60 m²
+Living area","
+3
+Rooms"," €2,150 per month"
+0,"Apartment Cruquiusweg 107
+
+
+new
+                       ", 1019 AG ,"
+50 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Goudsbloemstraat
+
+
+new
+                       ", 1015 JR ,"
+50 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Hoendiepstraat
+
+
+new
+                       ", 1079 LW ,"
+61 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Overtoom
+
+
+new
+                       ", 1054 LG ,"
+90 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Admiraal De Ruijterweg 225 I
+
+
+new
+                       ", 1055 LR ,"
+75 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Tweede Jan Steenstraat
+
+
+new
+                       ", 1073 VL ,"
+60 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Amstelveenseweg 142
+
+
+new
+                       ", 1075 XM ,"
+39 m²
+Living area","
+1
+Rooms"," €1,300 per month"
+0,"Apartment Corantijnstraat
+
+
+new
+                       ", 1058 DD ,"
+55 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,, 1066 SX ,"
+85 m²
+Living area","
+4
+Rooms"," €4,450 per month"
+0,"Apartment Schinkelhavenkade
+
+
+new
+                       ", 1075 VS ,"
+91 m²
+Living area","
+2
+Rooms"," €3,500 per month"
+0,"Apartment Jephtastraat
+
+
+new
+                       ", 1055 JT ,"
+84 m²
+Living area","
+4
+Rooms"," €2,500 per month"
+0,"Apartment Overtoom
+
+
+new
+                       ", 1054 LL ,"
+70 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Van der Palmkade 214
+
+
+new
+                       ", 1051 RL ,"100 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Sumatrakade 1345
+
+
+new
+                       ", 1019 RN ,"165 m²
+Living area","
+6
+Rooms"," €4,200 per month"
+0,"Apartment Singel
+
+
+new
+                       ", 1012 VG ,"
+60 m²
+Living area","
+3
+Rooms"," €3,150 per month"
+0,"Apartment Jan Olphert Vaillantlaan
+
+
+new
+                       ", 1086 ZA ,"
+60 m²
+Living area","
+3
+Rooms"," €2,150 per month"
+0,"Apartment Duke Ellingtonstraat
+
+
+new
+                       ", 1066 GG ,"
+79 m²
+Living area","
+3
 Rooms"," €2,500 per month"
 0,"Apartment Berenstraat
 
@@ -24,6 +212,40 @@ new
 Living area","
 2
 Rooms"," €2,500 per month"
+0,"Apartment Overtoom 244 IV
+
+
+new
+                       ", 1054 JA ,"100 m²
+Living area","
+3
+Rooms"," €2,950 per month"
+0,"Apartment Wouwermanstraat 24 3
+
+
+new
+                       ", 1071 LZ ,"
+80 m²
+Living area","
+3
+Rooms"," €2,150 per month"
+0,, 1025 SW ,"
+12 m²
+Living area","
+1
+Rooms",  €1300 per month
+0,, 1071 LZ ,"138 m²
+Living area","
+5
+Rooms"," €4,500 per month"
+0,"Apartment Chasséstraat
+
+
+new
+                       ", 1057 JB ,"150 m²
+Living area","
+4
+Rooms"," €3,700 per month"
 0,"Apartment Valschermkade
 
 
@@ -33,6 +255,75 @@ new
 Living area","
 1
 Rooms",  €2000 per month
+0,"Apartment Leliegracht
+
+
+new
+                       ", 1015 DJ ,"
+59 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Kramatweg
+
+
+new
+                       ", 1095 JW ,"
+50 m²
+Living area","
+2
+Rooms"," €2,300 per month"
+0,"Apartment IJburglaan
+
+
+new
+
+                       ", 1087 CE ,"118 m²
+Living area","
+3
+Rooms"," €4,450 per month"
+0,"Apartment Bella Vistastraat
+
+
+new
+                       ", 1096 GM ,"100 m²
+Living area","
+4
+Rooms"," €3,500 per month"
+0,"Apartment Leidsestraat 108 C
+
+
+new
+                       ", 1017 PG ,"
+88 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Hoofdweg 230 2
+
+
+new
+                       ", 1057 DG ,"
+58 m²
+Living area","
+3
+Rooms"," €3,500 per month"
 0,"Apartment Albert Cuypstraat
 
 
@@ -55,7 +346,6 @@ Rooms"," €3,500 per month"
 
 
 new
-
                        ", 1102 XA ,"
 28 m²
 Living area","
@@ -113,7 +403,7 @@ Rooms"," €2,150 per month"
 new
                        ", 1012 LC ,"120 m²
 Living area","
-4
+3
 Rooms"," €3,500 per month"
 0,"Apartment Commelinstraat
 
@@ -147,6 +437,7 @@ Rooms"," €2,350 per month"
 
 
 new
+
                        ", 1012 GS ,"
 30 m²
 Living area","
@@ -206,11 +497,10 @@ Rooms"," €2,000 per month"
 
 
 new
-
                        ", 1103 GZ ,"
 65 m²
 Living area","
-3
+2
 Rooms"," €2,350 per month"
 0,"Apartment Marnixstraat
 
@@ -248,6 +538,22 @@ new
 Living area","
 3
 Rooms"," €3,150 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
 0,"Apartment Van Spilbergenstraat 10 1
 
 
@@ -265,30 +571,6 @@ new
 Living area","
 4
 Rooms"," €4,000 per month"
-0,"Apartment Carolina MacGillavrylaan 208
-
-
-new
-                       ", 1098 XA ,"137 m²
-Living area","
-5
-Rooms"," €2,950 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Amstelveenseweg 864 I
 
 
@@ -436,15 +718,6 @@ new
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Houtmankade
-
-
-new
-                       ", 1013 MT ,"
-25 m²
-Living area","
-1
-Rooms",  €1500 per month
 0,"Apartment Overtoom
 
 
@@ -457,7 +730,6 @@ Rooms"," €5,500 per month"
 
 
 new
-
                        ", 1024 AZ ,"
 85 m²
 Living area","
@@ -465,8 +737,6 @@ Living area","
 Rooms"," €3,000 per month"
 0,"Apartment Kinderdijkstraat 92 3
 
-
-new
 
                        ", 1079 GP ,"110 m²
 Living area","
@@ -485,7 +755,6 @@ Rooms"," €3,050 per month"
 0,"Apartment Hemonystraat
 
 
-new
                        ", 1074 BL ,"
 75 m²
 Living area","
@@ -493,8 +762,6 @@ Living area","
 Rooms"," €3,150 per month"
 0,"Apartment Van Baerlestraat
 
-
-new
 
                        ", 1071 BD ,"
 90 m²
@@ -504,7 +771,6 @@ Rooms"," €4,200 per month"
 0,"Apartment Jonge Roelensteeg
 
 
-new
                        ", 1012 PL ,"
 30 m²
 Living area","
@@ -513,7 +779,6 @@ Rooms"," €2,000 per month"
 0,"Apartment Graaf Florisstraat
 
 
-new
                        ", 1091 TE ,"
 65 m²
 Living area","
@@ -522,7 +787,6 @@ Rooms"," €2,150 per month"
 0,"Apartment Overschiestraat
 
 
-new
                        ", 1062 HN ,"
 65 m²
 Living area","
@@ -531,41 +795,38 @@ Rooms"," €2,150 per month"
 0,"Apartment Overschiestraat
 
 
-new
                        ", 1062 HN ,"
 65 m²
 Living area","
 3
 Rooms"," €2,800 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Grote Ruwenberg
 
 
-new
                        ", 1083 BS ,"
 66 m²
 Living area","
 3
 Rooms"," €2,350 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Zaandijkstraat
 
 
-new
                        ", 1013 VN ,"
 50 m²
 Living area","
@@ -574,7 +835,6 @@ Rooms"," €3,500 per month"
 0,"Apartment Ferdinand Bolstraat
 
 
-new
                        ", 1072 LB ,"
 65 m²
 Living area","
@@ -583,7 +843,6 @@ Rooms"," €2,800 per month"
 0,"Apartment Wiborgeiland
 
 
-new
                        ", 1014 ZC ,"
 71 m²
 Living area","
@@ -592,7 +851,6 @@ Rooms"," €3,150 per month"
 0,"Apartment Frans Halsstraat
 
 
-new
                        ", 1072 BX ,"
 50 m²
 Living area","
@@ -601,7 +859,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Nassaukade
 
 
-new
                        ", 1054 AA ,"153 m²
 Living area","
 5
@@ -609,7 +866,6 @@ Rooms"," €4,500 per month"
 0,"Apartment Gerard Douplein 7 2
 
 
-new
                        ", 1073 XE ,"
 35 m²
 Living area","
@@ -618,7 +874,6 @@ Rooms"," €2,500 per month"
 0,"Apartment Amsteldijk 45 1ACHTER
 
 
-new
                        ", 1074 HW ,"
 48 m²
 Living area","
@@ -627,7 +882,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Amsteldijk 45 1 VOOR
 
 
-new
                        ", 1074 HW ,"
 40 m²
 Living area","
@@ -636,7 +890,6 @@ Rooms"," €2,000 per month"
 0,"Apartment Emmastraat 40 II
 
 
-new
                        ", 1075 HW ,"110 m²
 Living area","
 3
@@ -644,7 +897,6 @@ Rooms"," €3,500 per month"
 0,"Apartment Nova Zemblastraat 49
 
 
-new
                        ", 1013 RJ ,"100 m²
 Living area","
 4
@@ -652,7 +904,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Van Suchtelen van de Haarestraat
 
 
-new
                        ", 1068 GV ,"100 m²
 Living area","
 4
@@ -660,7 +911,6 @@ Rooms"," €4,450 per month"
 0,"Apartment Amstel 108 B
 
 
-new
                        ", 1017 AD ,"
 75 m²
 Living area","
@@ -669,7 +919,6 @@ Rooms"," €5,500 per month"
 0,"Apartment Tweede Jan van der Heijdenstraat 26 2
 
 
-new
                        ", 1073 VJ ,"
 60 m²
 Living area","
@@ -678,7 +927,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Kloekhorststraat 163
 
 
-new
                        ", 1104 ML ,"
 73 m²
 Living area","
@@ -687,7 +935,6 @@ Rooms"," €3,500 per month"
 0,"Apartment Koninginneweg
 
 
-new
                        ", 1075 CV ,"
 70 m²
 Living area","
@@ -695,8 +942,6 @@ Living area","
 Rooms"," €5,500 per month"
 0,"Apartment IJselstraat
 
-
-new
 
                        ", 1078 CE ,"
 66 m²
@@ -706,7 +951,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Westerdok
 
 
-new
                        ", 1013 BH ,"
 65 m²
 Living area","
@@ -715,7 +959,6 @@ Rooms"," €3,500 per month"
 0,"Apartment Bilderdijkstraat 69 1A
 
 
-new
                        ", 1053 KM ,"
 32 m²
 Living area","
@@ -724,7 +967,6 @@ Rooms"," €2,000 per month"
 0,"Apartment Eerste Helmersstraat
 
 
-new
                        ", 1054 EE ,"145 m²
 Living area","
 5
@@ -732,7 +974,6 @@ Rooms"," €3,650 per month"
 0,"Apartment Deurloostraat 40 2
 
 
-new
                        ", 1078 JC ,"
 81 m²
 Living area","
@@ -741,7 +982,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Jacob van Lennepkade
 
 
-new
                        ", 1053 NM ,"
 68 m²
 Living area","
@@ -750,7 +990,6 @@ Rooms"," €3,150 per month"
 0,"Apartment IJburglaan
 
 
-new
                        ", 1087 CE ,"120 m²
 Living area","
 3
@@ -758,7 +997,6 @@ Rooms"," €4,450 per month"
 0,"Apartment Fokke Simonszstraat 54 A
 
 
-new
                        ", 1017 TJ ,"
 42 m²
 Living area","
@@ -767,7 +1005,6 @@ Rooms"," €2,300 per month"
 0,"Apartment Beethovenstraat 73 A
 
 
-new
                        ", 1077 HP ,"
 70 m²
 Living area","
@@ -775,8 +1012,6 @@ Living area","
 Rooms"," €3,000 per month"
 0,"Apartment Ceintuurbaan
 
-
-new
 
                        ", 1072 GB ,"
 60 m²
@@ -786,7 +1021,6 @@ Rooms"," €2,000 per month"
 0,"Apartment Kotterspad 32
 
 
-new
                        ", 1081 KP ,"
 95 m²
 Living area","
@@ -795,7 +1029,6 @@ Rooms"," €3,050 per month"
 0,"Apartment Hageland 132 K
 
 
-new
                        ", 1066 SB ,"
 40 m²
 Living area","
@@ -804,7 +1037,6 @@ Rooms"," €2,500 per month"
 0,"Apartment Tweede Kostverlorenkade
 
 
-new
                        ", 1052 RH ,"
 60 m²
 Living area","
@@ -813,12 +1045,27 @@ Rooms"," €2,500 per month"
 0,"Apartment De Kempenaerstraat
 
 
-new
                        ", 1051 CN ,"
 44 m²
 Living area","
 3
 Rooms"," €2,300 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Wijdesteeg
 
 
@@ -827,22 +1074,6 @@ Rooms"," €2,300 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
 0,"Apartment Spuistraat
 
 
@@ -1072,22 +1303,14 @@ Rooms"," €2,350 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment James Wattstraat
+0,"Apartment Brouwersgracht 248 C
 
 
-                       ", 1097 DL ,"
-50 m²
+                       ", 1013 HE ,"
+78 m²
 Living area","
 2
-Rooms"," €1,800 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
+Rooms"," €3,000 per month"
 0,"Apartment Nieuwevaartweg
 
 
@@ -1096,6 +1319,14 @@ Rooms"," €2,500 per month"
 Living area","
 2
 Rooms"," €1,950 per month"
+0,"Apartment James Wattstraat
+
+
+                       ", 1097 DL ,"
+50 m²
+Living area","
+2
+Rooms"," €1,800 per month"
 0,"Apartment Govert Flinckstraat
 
 
@@ -1320,6 +1551,22 @@ Rooms"," €2,300 per month"
 Living area","
 5
 Rooms"," €4,750 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
 0,"Apartment Valeriusstraat 27 C*
 
 
@@ -1327,22 +1574,6 @@ Rooms"," €4,750 per month"
 Living area","
 5
 Rooms"," €4,000 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,, 1077 WN ,"300 m²
 Living area","12
 Rooms","€11,350 per month"
@@ -1566,6 +1797,22 @@ Rooms"," €2,800 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
 0,"Apartment Keizersgracht 634 L
 
 
@@ -1574,22 +1821,6 @@ Rooms"," €2,500 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Postjesweg
 
 
@@ -1777,14 +2008,6 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
-0,"Apartment Tweede Jacob van Campenstraat
-
-
-                       ", 1073 XS ,"
-87 m²
-Living area","
-3
-Rooms"," €3,150 per month"
 0,"Apartment August Allebéplein
 
 
@@ -1825,22 +2048,22 @@ Rooms"," €5,000 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
-0,"Apartment Nieuwevaartweg
+0,"Apartment Molenpad
 
 
-                       ", 1019 AL ,"
-40 m²
+                       ", 1016 GM ,"
+47 m²
 Living area","
 2
-Rooms"," €1,950 per month"
-0,"Apartment Aalsmeerweg 127 2
+Rooms"," €2,500 per month"
+0,"Apartment Jasonstraat 27 H
 
 
-                       ", 1059 AH ,"
-72 m²
+                       ", 1076 KX ,"
+65 m²
 Living area","
 3
-Rooms"," €2,800 per month"
+Rooms"," €5,000 per month"
 0,"Apartment Herengracht
 
 
@@ -2007,14 +2230,6 @@ Rooms"," €3,500 per month"
 Living area","
 3
 Rooms"," €2,200 per month"
-0,"Apartment Spuistraat
-
-
-                       ", 1012 VA ,"
-35 m²
-Living area","
-2
-Rooms"," €2,000 per month"
 0,"Apartment Assumburg
 
 
@@ -2078,22 +2293,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €1,600 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Berthold Brechtstraat
 
 
@@ -2102,6 +2301,22 @@ Rooms"," €2,800 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
 0,"Apartment Jasonstraat 27 H
 
 
@@ -2325,22 +2540,6 @@ Rooms"," €2,300 per month"
 Living area","
 3
 Rooms"," €2,200 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Eerste Jan Steenstraat
 
 
@@ -2348,6 +2547,22 @@ Rooms"," €2,800 per month"
 Living area","
 4
 Rooms"," €5,000 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
 0,"Apartment Krommertstraat
 
 
@@ -2573,22 +2788,6 @@ Rooms"," €2,800 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Hemonystraat
 
 
@@ -2597,6 +2796,22 @@ Rooms"," €2,150 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
 0,"Apartment Gerard Doustraat
 
 
@@ -2816,22 +3031,6 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €2,050 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Mercuriusplein 1 2
 
 
@@ -2839,6 +3038,22 @@ Rooms"," €2,500 per month"
 Living area","
 4
 Rooms"," €4,500 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
 0,"Apartment Jacob van Arteveldestraat
 
 
@@ -3042,6 +3257,7 @@ Rooms"," €3,150 per month"
 0,"Apartment Pieter Calandlaan
 
 
+
                        ", 1060 TT ,"
 96 m²
 Living area","
@@ -3063,27 +3279,27 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Ferdinand Bolstraat 113 3
 
 
                        ", 1072 LE ,"
 55 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
 Living area","
 2
 Rooms"," €2,150 per month"
@@ -3111,13 +3327,6 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Beethovenstraat
-
-
-                       ", 1077 JS ,"210 m²
-Living area","
-6
-Rooms"," €4,650 per month"
 0,"Apartment Vechtstraat 122 H
 
 
@@ -3192,7 +3401,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Welnastraat
 
 
-
                        ", 1096 GJ ,"
 28 m²
 Living area","
@@ -3264,6 +3472,7 @@ Rooms"," €3,150 per month"
 0,"Apartment Tweede Constantijn Huygensstraat
 
 
+
                        ", 1054 CW ,"125 m²
 Living area","
 4
@@ -3296,22 +3505,6 @@ Rooms"," €2,300 per month"
 Living area","
 2
 Rooms",  €1550 per month
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Groenburgwal 47 3
-
-
-                       ", 1011 HS ,"
-40 m²
-Living area","
-2
-Rooms"," €2,200 per month"
 0,"Apartment Wittgensteinlaan
 
 
@@ -3328,6 +3521,22 @@ Rooms"," €2,200 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Blankenbergestraat 17
 
 
@@ -3541,22 +3750,6 @@ Rooms"," €3,500 per month"
 Living area","
 3
 Rooms"," €5,000 per month"
-0,"Apartment Groenburgwal 47 3
-
-
-                       ", 1011 HS ,"
-40 m²
-Living area","
-2
-Rooms"," €2,200 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
 0,"Apartment Waalstraat
 
 
@@ -3573,6 +3766,22 @@ Rooms"," €2,800 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Marnixstraat
 
 
@@ -3723,7 +3932,6 @@ Rooms"," €2,150 per month"
 0,"Apartment Lindengracht 29 2
 
 
-
                        ", 1015 KB ,"
 41 m²
 Living area","
@@ -3793,22 +4001,6 @@ Rooms"," €3,500 per month"
 Living area","
 1
 Rooms"," €2,000 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
 0,"Apartment Anjeliersstraat 82 D
 
 
@@ -3825,6 +4017,22 @@ Rooms"," €3,000 per month"
 Living area","
 4
 Rooms"," €4,350 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Muntplein 2 G
 
 
@@ -4019,6 +4227,7 @@ Rooms"," €3,050 per month"
 0,"Apartment Overschiestraat 170 B10*
 
 
+
                        ", 1062 XK ,"
 77 m²
 Living area","
@@ -4048,22 +4257,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €1,950 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Prinsengracht 657 1
 
 
@@ -4080,6 +4273,22 @@ Rooms"," €2,300 per month"
 Living area","
 3
 Rooms"," €3,650 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Van Nijenrodeweg
 
 
@@ -4295,26 +4504,10 @@ Rooms"," €2,500 per month"
 
 
                        ", 1062 AB ,"
-52 m²
+54 m²
 Living area","
 2
 Rooms"," €2,000 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Omval 259 PP
 
 
@@ -4330,6 +4523,22 @@ Rooms"," €3,150 per month"
 Living area","
 3
 Rooms"," €3,650 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
 0,"Apartment Heinzestraat
 
 
@@ -4411,6 +4620,7 @@ Living area","
 3
 Rooms"," €1,700 per month"
 0,"Apartment Van Hogendorpstraat 155 1
+
 
 
                        ", 1051 BN ,"
@@ -4545,22 +4755,6 @@ Rooms"," €1,950 per month"
 Living area","
 2
 Rooms"," €2,850 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Spijkerkade
 
 
@@ -4576,6 +4770,22 @@ Rooms"," €1,950 per month"
 Living area","
 3
 Rooms"," €4,500 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Kuiperssteeg
 
 
@@ -4741,7 +4951,6 @@ Rooms"," €4,000 per month"
 0,"Apartment Van Spilbergenstraat
 
 
-
                        ", 1057 RK ,"
 70 m²
 Living area","
@@ -4789,22 +4998,6 @@ Rooms"," €5,000 per month"
 Living area","
 5
 Rooms"," €3,000 per month"
-0,"Apartment Parelstraat 20
-
-
-                       ", 1018 AS ,"
-45 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Beethovenstraat 151 1
 
 
@@ -4813,14 +5006,6 @@ Rooms"," €2,800 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
-0,"Apartment Van Tuyll van Serooskerkenweg
-
-
-                       ", 1076 JV ,"
-68 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Overtoom 403 II
 
 
@@ -4829,6 +5014,22 @@ Rooms"," €2,800 per month"
 Living area","
 3
 Rooms"," €3,150 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Rosmarijnsteeg 15
 
 
@@ -5005,6 +5206,7 @@ Rooms"," €3,500 per month"
 0,"Apartment Bos en Lommerweg
 
 
+
                        ", 1055 EC ,"
 56 m²
 Living area","
@@ -5042,22 +5244,6 @@ Rooms"," €2,500 per month"
 Living area","
 2
 Rooms"," €2,000 per month"
-0,"Apartment Parelstraat 20
-
-
-                       ", 1018 AS ,"
-45 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Amstelveenseweg 71 3
 
 
@@ -5082,6 +5268,22 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
 0,"Apartment Laurierstraat 75 G
 
 
@@ -5090,14 +5292,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €2,000 per month"
-0,"Apartment Van Nijenrodeweg 546
-
-
-                       ", 1082 HS ,"
-90 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Eerste Jacob van Campenstraat
 
 
@@ -5138,14 +5332,6 @@ Rooms"," €3,500 per month"
 Living area","
 4
 Rooms"," €2,500 per month"
-0,"Apartment Tweede Jan Steenstraat
-
-
-                       ", 1073 VL ,"
-63 m²
-Living area","
-3
-Rooms"," €4,050 per month"
 0,"Apartment Spuistraat 3 F15
 
 
@@ -5178,14 +5364,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Schinkelhavenkade
-
-
-                       ", 1075 VS ,"
-91 m²
-Living area","
-2
-Rooms"," €3,500 per month"
 0,, 1086 XZ ,"220 m²
 Living area","
 8
@@ -5223,6 +5401,7 @@ Living area","
 2
 Rooms"," €3,500 per month"
 0,"Apartment Fokke Simonszstraat
+
 
 
                        ", 1017 TE ,"
@@ -5294,22 +5473,6 @@ Rooms"," €4,500 per month"
 Living area","
 2
 Rooms"," €2,800 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
 0,"Apartment Nieuwe Uilenburgerstraat 108
 
 
@@ -5350,6 +5513,22 @@ Rooms"," €6,500 per month"
 Living area","
 5
 Rooms"," €9,000 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Nieuwe Herengracht
 
 
@@ -5425,7 +5604,6 @@ Living area","
 3
 Rooms"," €2,800 per month"
 0,"Apartment Madurastraat
-
 
 
                        ", 1094 GR ,"
@@ -5533,22 +5711,6 @@ Rooms"," €2,000 per month"
 Living area","
 3
 Rooms"," €2,200 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Van Walbeeckstraat
 
 
@@ -5597,6 +5759,22 @@ Rooms"," €2,500 per month"
 Living area","
 2
 Rooms"," €2,150 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Martelaarsgracht
 
 
@@ -5769,14 +5947,6 @@ Rooms"," €2,000 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
-0,"Apartment Eerste Atjehstraat 29 Huis
-
-
-                       ", 1094 KA ,"
-52 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Nassaukade
 
 
@@ -5785,22 +5955,6 @@ Rooms"," €2,150 per month"
 Living area","
 2
 Rooms"," €3,900 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Joan Muyskenweg 6 B8
 
 
@@ -5853,6 +6007,22 @@ Rooms"," €5,500 per month"
 
                        ", 1095 ME ,"
 65 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
 Living area","
 2
 Rooms"," €2,500 per month"
@@ -6031,30 +6201,6 @@ Rooms"," €1,700 per month"
 Living area","
 3
 Rooms"," €2,300 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
-0,"Apartment De Wittenkade 172 1
-
-
-                       ", 1051 AP ,"
-49 m²
-Living area","
-3
-Rooms"," €2,500 per month"
 0,"Apartment Cabotstraat 17 1
 
 
@@ -6111,6 +6257,22 @@ Rooms"," €2,350 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
 0,"Apartment Noorderstraat
 
 
@@ -6282,22 +6444,6 @@ Rooms"," €2,150 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
-0,"Apartment Groenburgwal 47 3
-
-
-                       ", 1011 HS ,"
-40 m²
-Living area","
-2
-Rooms"," €2,200 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Daniël Stalpertstraat 14
 
 
@@ -6361,6 +6507,22 @@ Rooms"," €2,150 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
 0,"Apartment Frans van Mierisstraat 69 II
 
 
@@ -6483,6 +6645,7 @@ Rooms"," €2,500 per month"
 0,"Apartment Van Hogendorpstraat
 
 
+
                        ", 1051 BV ,"
 40 m²
 Living area","
@@ -6523,22 +6686,6 @@ Rooms"," €2,900 per month"
 Living area","
 5
 Rooms"," €5,000 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,, 1098 AN ,"260 m²
 Living area","
 6
@@ -6596,6 +6743,22 @@ Rooms"," €3,150 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
 0,"Apartment Reyer Anslostraat 19 hs
 
 
@@ -6687,14 +6850,6 @@ Rooms"," €2,000 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
-0,"Apartment Bilderdijkstraat
-
-
-                       ", 1053 KS ,"
-62 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,, 1019 TT ,"116 m²
 Living area","
 4
@@ -6762,22 +6917,6 @@ Rooms"," €5,000 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Winthontstraat
 
 
@@ -6849,6 +6988,22 @@ Rooms"," €4,300 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
 0,"Apartment Bos en Lommerweg
 
 
@@ -7013,30 +7168,6 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €2,300 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Singel 99 C
-
-
-                       ", 1012 VG ,"
-75 m²
-Living area","
-3
-Rooms"," €3,150 per month"
 0,"Apartment Rinus Michelslaan
 
 
@@ -7107,6 +7238,22 @@ Rooms"," €4,000 per month"
 77 m²
 Living area","
 3
+Rooms"," €2,150 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
 Rooms"," €2,150 per month"
 0,"Apartment Leidsestraat
 
@@ -7259,22 +7406,6 @@ Rooms"," €2,350 per month"
 Living area","
 1
 Rooms"," €1,650 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Waldenlaan 107
 
 
@@ -7354,6 +7485,22 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €2,150 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
 0,"Apartment Spinakerhof
 
 
@@ -7512,22 +7659,6 @@ Rooms"," €2,300 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
 0,"Apartment Havikshorst
 
 
@@ -7587,6 +7718,7 @@ Rooms"," €2,800 per month"
 0,"Apartment Eerste Jan Steenstraat 90 3
 
 
+
                        ", 1072 NP ,"
 71 m²
 Living area","
@@ -7608,6 +7740,22 @@ Rooms"," €4,500 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,, 1104 HX ,"135 m²
 Living area","
 4
@@ -7757,22 +7905,6 @@ Rooms"," €5,950 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Groenburgwal 47 3
-
-
-                       ", 1011 HS ,"
-40 m²
-Living area","
-2
-Rooms"," €2,200 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Plantage Doklaan
 
 
@@ -7837,14 +7969,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €2,350 per month"
-0,"Apartment Bonairestraat 55 II
-
-
-                       ", 1058 XD ,"
-50 m²
-Living area","
-3
-Rooms"," €2,300 per month"
 0,"Apartment Prinsengracht
 
 
@@ -7857,6 +7981,22 @@ Rooms"," €7,000 per month"
 Living area","
 7
 Rooms"," €5,100 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
 0,"Apartment Oudezijds Achterburgwal
 
 
@@ -7969,14 +8109,6 @@ Rooms"," €4,500 per month"
 Living area","
 3
 Rooms"," €4,300 per month"
-0,"Apartment Overtoom
-
-
-                       ", 1054 LG ,"
-90 m²
-Living area","
-2
-Rooms"," €3,500 per month"
 0,"Apartment IJburglaan 732
 
 
@@ -7997,36 +8129,11 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment George Gershwinlaan 476
 
 
                        ", 1082 MT ,"
 85 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Tweede Jan van der Heijdenstraat 12 3
-
-
-
-                       ", 1073 VH ,"
-57 m²
 Living area","
 2
 Rooms"," €2,150 per month"
@@ -8110,6 +8217,22 @@ Rooms"," €2,350 per month"
 Living area","
 2
 Rooms"," €2,150 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
 0,"Apartment Wiborgeiland
 
 
@@ -8196,7 +8319,6 @@ Rooms"," €2,150 per month"
 0,"Apartment Openhartsteeg
 
 
-
                        ", 1017 BD ,"
 42 m²
 Living area","
@@ -8240,22 +8362,6 @@ Rooms"," €4,650 per month"
 Living area","
 1
 Rooms"," €2,800 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
 0,"Apartment Termini
 
 
@@ -8359,6 +8465,22 @@ Rooms"," €2,300 per month"
 Living area","
 4
 Rooms"," €3,650 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Foeliestraat 4 E
 
 
@@ -8493,22 +8615,6 @@ Rooms",  €2000 per month
 Living area","
 1
 Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Graaf Florisstraat
 
 
@@ -8611,6 +8717,22 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €3,150 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Veerstraat 69 3
 
 
@@ -8632,14 +8754,6 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Postjeskade 149 I
-
-
-                       ", 1058 DN ,"
-65 m²
-Living area","
-3
-Rooms"," €2,500 per month"
 0,"Apartment Rokin 30 2
 
 
@@ -8743,22 +8857,6 @@ Rooms"," €2,500 per month"
 Living area","
 4
 Rooms"," €2,500 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Valckenierstraat 43 1
 
 
@@ -8776,6 +8874,7 @@ Living area","
 2
 Rooms"," €2,300 per month"
 0,"Apartment Marnixstraat 54 I L
+
 
 
                        ", 1015 VT ,"
@@ -8866,6 +8965,22 @@ Rooms"," €2,000 per month"
 Living area","
 3
 Rooms"," €2,000 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
 0,"Apartment Ruiseveenpad 94
 
 
@@ -8882,10 +8997,6 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €3,050 per month"
-0,, 1015 AL ,"180 m²
-Living area","
-5
-Rooms"," €6,700 per month"
 0,"Apartment August Allebéplein 209
 
 
@@ -8988,23 +9099,7 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Willemsparkweg 50 I
+0,"Apartment Willemsparkweg 50 1
 
 
                        ", 1071 HH ,"
@@ -9124,6 +9219,22 @@ Rooms"," €3,500 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
 0,"Apartment Kerkstraat
 
 
@@ -9155,14 +9266,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Vechtstraat
-
-
-                       ", 1079 JD ,"
-58 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Nieuwe Achtergracht
 
 
@@ -9241,22 +9344,6 @@ Rooms"," €5,000 per month"
 Living area","
 3
 Rooms"," €4,450 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
 0,"Apartment Gerrit van der Veenstraat
 
 
@@ -9323,7 +9410,6 @@ Rooms"," €2,150 per month"
 0,"Apartment Bonaireplein
 
 
-
                        ", 1058 XB ,"
 51 m²
 Living area","
@@ -9351,14 +9437,6 @@ Rooms"," €2,500 per month"
                        ", 1019 HD ,"100 m²
 Living area","
 4
-Rooms"," €2,500 per month"
-0,"Apartment Willem de Zwijgerlaan 92 III
-
-
-                       ", 1056 JT ,"
-55 m²
-Living area","
-3
 Rooms"," €2,500 per month"
 0,"Apartment Nieuwe Looiersstraat
 
@@ -9391,6 +9469,22 @@ Rooms"," €3,500 per month"
 Living area","
 5
 Rooms"," €8,000 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
 0,"Apartment Krom Boomssloot 59 E
 
 
@@ -9406,13 +9500,6 @@ Rooms"," €6,200 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Slangenburg 40
-
-
-                       ", 1082 JW ,"105 m²
-Living area","
-3
-Rooms"," €2,500 per month"
 0,"Apartment Recht Boomssloot 87 III
 
 
@@ -9488,22 +9575,6 @@ Rooms","€10,200 per month"
 Living area","
 3
 Rooms"," €4,500 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Overtoom
 
 
@@ -9630,7 +9701,6 @@ Rooms"," €2,350 per month"
 0,"Apartment Legmeerstraat 87 I
 
 
-
                        ", 1058 NC ,"
 49 m²
 Living area","
@@ -9643,12 +9713,29 @@ Rooms"," €2,500 per month"
 Living area","
 4
 Rooms"," €2,000 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
 0,, 1013 GX ,"
 59 m²
 Living area","
 2
 Rooms"," €2,200 per month"
 0,"Apartment Tweede Egelantiersdwarsstraat
+
 
 
                        ", 1015 SC ,"
@@ -9718,7 +9805,7 @@ Rooms"," €3,500 per month"
 82 m²
 Living area","
 3
-Rooms"," €3,000 per month"
+Rooms"," €2,500 per month"
 0,"Apartment IJdoornlaan 251 A1
 
 
@@ -9734,22 +9821,6 @@ Rooms"," €2,000 per month"
 Living area","
 3
 Rooms"," €3,050 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Van Oldenbarneveldtstraat 41 3
 
 
@@ -9890,6 +9961,22 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €1,950 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
 0,"Apartment Simon Stevinstraat 3 1
 
 
@@ -9949,7 +10036,6 @@ Rooms"," €3,500 per month"
 0,"Apartment Lange Niezel
 
 
-
                        ", 1012 GS ,"
 47 m²
 Living area","
@@ -9979,22 +10065,6 @@ Rooms"," €2,500 per month"
 Living area","
 2
 Rooms"," €2,000 per month"
-0,"Apartment Parelstraat 20
-
-
-                       ", 1018 AS ,"
-45 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Lavaspad
 
 
@@ -10032,6 +10102,7 @@ Living area","
 3
 Rooms"," €2,500 per month"
 0,"Apartment Tweede Hugo de Grootstraat
+
 
 
                        ", 1052 MA ,"
@@ -10132,6 +10203,22 @@ Rooms"," €4,500 per month"
 Living area","
 3
 Rooms"," €2,150 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Doddendaal 197
 
 
@@ -10225,22 +10312,6 @@ Rooms"," €2,500 per month"
 Living area","
 6
 Rooms"," €4,500 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Ohmstraat 10 3
 
 
@@ -10264,14 +10335,6 @@ Rooms"," €5,500 per month"
 Living area","
 3
 Rooms"," €3,050 per month"
-0,"Apartment Chestertonlaan 129
-
-
-                       ", 1102 XW ,"
-71 m²
-Living area","
-3
-Rooms"," €2,350 per month"
 0,"Apartment Marnixstraat 224 B
 
 
@@ -10376,7 +10439,6 @@ Rooms"," €2,500 per month"
 0,"Apartment Willemsparkweg
 
 
-
                        ", 1071 HB ,"
 75 m²
 Living area","
@@ -10390,6 +10452,22 @@ Rooms"," €3,500 per month"
 Living area","
 3
 Rooms"," €2,000 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
 0,"Apartment Onstein
 
 
@@ -10474,22 +10552,6 @@ Rooms"," €3,150 per month"
 Living area","
 2
 Rooms"," €2,300 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
 0,"Apartment Rustenburgerstraat 422 I
 
 
@@ -10525,6 +10587,7 @@ Living area","
 3
 Rooms"," €3,000 per month"
 0,"Apartment Oudezijds Voorburgwal
+
 
 
                        ", 1012 GJ ,"
@@ -10636,6 +10699,22 @@ Rooms"," €1,950 per month"
 Living area","
 2
 Rooms"," €4,450 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
 0,"Apartment Elzenhagensingel 469
 
 
@@ -10723,22 +10802,6 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €4,500 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Frans van Mierisstraat 24 2
 
 
@@ -10881,6 +10944,22 @@ Rooms"," €4,500 per month"
 Living area","
 7
 Rooms"," €7,500 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
 0,"Apartment Burgemeester Hogguerstraat 1169
 
 
@@ -10960,22 +11039,6 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Rustenburgerstraat 138 A hs
 
 
@@ -11116,6 +11179,22 @@ Rooms"," €9,500 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
 0,"Apartment Liendenhof 135
 
 
@@ -11203,22 +11282,6 @@ Rooms"," €2,800 per month"
 Living area","
 2
 Rooms"," €2,800 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Spuistraat 201 B
 
 
@@ -11365,6 +11428,22 @@ Rooms"," €3,500 per month"
 Living area","
 4
 Rooms"," €5,000 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
 0,"Apartment Den Texstraat
 
 
@@ -11448,22 +11527,6 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €2,800 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Kees Broekmanstraat 66
 
 
@@ -11614,6 +11677,22 @@ Rooms"," €2,000 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Admiraliteitstraat
 
 
@@ -11698,22 +11777,6 @@ Rooms"," €5,500 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Emmeline Pankhurststraat
 
 
@@ -11859,6 +11922,22 @@ Rooms"," €2,750 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Keizersgracht
 
 
@@ -11910,7 +11989,6 @@ Rooms"," €2,500 per month"
 0,"Apartment Carnapstraat
 
 
-
                        ", 1062 KT ,"
 73 m²
 Living area","
@@ -11943,37 +12021,13 @@ Rooms"," €2,800 per month"
 0,"Apartment Bos en Lommerplein 24
 
 
-
                        ", 1055 EK ,"
 80 m²
 Living area","
 3
 Rooms"," €3,000 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
-0,"Apartment Vinkenstraat
-
-
-                       ", 1013 JV ,"
-73 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Van Woustraat
+
 
 
                        ", 1073 LL ,"
@@ -11982,6 +12036,7 @@ Living area","
 2
 Rooms"," €3,000 per month"
 0,"Apartment Nieuwezijds Voorburgwal 169 F
+
 
 
                        ", 1012 RK ,"
@@ -12116,13 +12171,29 @@ Rooms",   €910 per month
 Living area","
 4
 Rooms"," €4,000 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Van Heenvlietlaan 186
 
 
                        ", 1083 CM ,"113 m²
 Living area","
 4
-Rooms"," €4,000 per month"
+Rooms"," €4,300 per month"
 0,"Apartment Prinsengracht
 
 
@@ -12146,14 +12217,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €3,500 per month"
-0,"Apartment Geervliet
-
-
-                       ", 1082 NT ,"
-65 m²
-Living area","
-3
-Rooms"," €2,500 per month"
 0,"Apartment Wilhelminastraat
 
 
@@ -12174,14 +12237,6 @@ Rooms"," €3,150 per month"
 Living area","
 3
 Rooms"," €2,150 per month"
-0,"Apartment Johan van der Keukenstraat 75 E-1
-
-
-                       ", 1087 BC ,"
-47 m²
-Living area","
-1
-Rooms"," €2,500 per month"
 0,"Apartment Veenendaalplein
 
 
@@ -12190,30 +12245,6 @@ Rooms"," €2,500 per month"
 Living area","
 4
 Rooms"," €2,200 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Borgerstraat
-
-
-                       ", 1053 PK ,"
-40 m²
-Living area","
-2
-Rooms"," €2,300 per month"
 0,"Apartment Lauriergracht
 
 
@@ -12387,6 +12418,22 @@ Rooms"," €2,500 per month"
 Living area","
 2
 Rooms"," €2,150 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
 0,"Apartment Niasstraat
 
 
@@ -12434,35 +12481,12 @@ Rooms"," €2,150 per month"
 0,"Apartment Recht Boomssloot 63 3
 
 
+
                        ", 1011 CV ,"
 65 m²
 Living area","
 3
 Rooms"," €2,000 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
-0,"Apartment Parelstraat 20
-
-
-                       ", 1018 AS ,"
-45 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Haparandadam 2 A10
-
-
-                       ", 1013 AK ,"
-75 m²
-Living area","
-2
-Rooms"," €2,350 per month"
 0,"Apartment Hestiastraat
 
 
@@ -12517,14 +12541,6 @@ Rooms"," €3,150 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Jan Evertsenstraat 675
-
-
-                       ", 1061 XZ ,"
-99 m²
-Living area","
-4
-Rooms"," €3,500 per month"
 0,"Apartment Nijenburg 53
 
 
@@ -12618,6 +12634,7 @@ Rooms"," €3,000 per month"
 0,"Apartment Rondeel 56
 
 
+
                        ", 1083 ME ,"100 m²
 Living area","
 3
@@ -12645,6 +12662,22 @@ Rooms"," €4,450 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
 0,"Apartment Orteliusstraat 118 3
 
 
@@ -12685,22 +12718,6 @@ Rooms"," €2,300 per month"
 Living area","
 2
 Rooms"," €2,300 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Curaçaostraat
 
 
@@ -12859,14 +12876,6 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms"," €4,450 per month"
-0,"Apartment Korte Lijnbaanssteeg
-
-
-                       ", 1012 SL ,"
-50 m²
-Living area","
-2
-Rooms"," €2,350 per month"
 0,"Apartment Plantage Kerklaan 10 1
 
 
@@ -12907,6 +12916,22 @@ Rooms"," €3,500 per month"
 Living area","
 3
 Rooms"," €2,800 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Amstel
 
 
@@ -12939,22 +12964,6 @@ Rooms"," €3,150 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
 0,"Apartment Nicolaas Maesstraat
 
 
@@ -13155,6 +13164,22 @@ Rooms"," €4,350 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
 0,"Apartment Raamdwarsstraat 4
 
 
@@ -13187,22 +13212,6 @@ Rooms"," €3,000 per month"
 Living area","
 4
 Rooms"," €2,000 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
 0,"Apartment Faas Wilkesstraat 163 A
 
 
@@ -13397,6 +13406,22 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €3,500 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Boeroestraat
 
 
@@ -13428,22 +13453,6 @@ Rooms",  €2500 per month
 Living area","
 2
 Rooms"," €5,500 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Groenburgwal 47 3
-
-
-                       ", 1011 HS ,"
-40 m²
-Living area","
-2
-Rooms"," €2,200 per month"
 0,"Apartment Govert Flinckstraat 332 B
 
 
@@ -13635,14 +13644,6 @@ Rooms"," €4,000 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Termini 417
-
-
-                       ", 1025 XM ,"
-75 m²
-Living area","
-3
-Rooms"," €2,300 per month"
 0,"Apartment Termini 405
 
 
@@ -13651,14 +13652,6 @@ Rooms"," €2,300 per month"
 Living area","
 3
 Rooms"," €2,300 per month"
-0,"Apartment Termini 447
-
-
-                       ", 1025 XM ,"
-75 m²
-Living area","
-3
-Rooms"," €2,500 per month"
 0,"Apartment Termini 393
 
 
@@ -13667,6 +13660,22 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €2,300 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Ruiseveenpad 102
 
 
@@ -13683,22 +13692,6 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €2,000 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
 0,"Apartment Lia Doranastraat 21
 
 
@@ -13791,13 +13784,6 @@ Rooms"," €2,000 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
-0,"Apartment Koopvaardersplantsoen 21 B
-
-
-                       ", 1034 KE ,"120 m²
-Living area","
-4
-Rooms"," €3,650 per month"
 0,"Apartment Derde Weteringdwarsstraat
 
 
@@ -13922,6 +13908,22 @@ Rooms"," €3,500 per month"
 Living area","
 1
 Rooms"," €2,500 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Kerkstraat
 
 
@@ -13929,22 +13931,6 @@ Rooms"," €2,500 per month"
 Living area","
 4
 Rooms"," €4,750 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Gustav Mahlerlaan
 
 
@@ -14159,14 +14145,6 @@ Rooms"," €2,150 per month"
 Living area","
 2
 Rooms"," €4,000 per month"
-0,"Apartment Wittgensteinlaan 66
-
-
-                       ", 1062 KB ,"
-89 m²
-Living area","
-3
-Rooms"," €1,500 per month"
 0,"Apartment Elisabeth Wolffstraat
 
 
@@ -14175,14 +14153,14 @@ Rooms"," €1,500 per month"
 Living area","
 3
 Rooms"," €2,800 per month"
-0,"Apartment Molenpad
+0,"Apartment Aalsmeerweg 127 2
 
 
-                       ", 1016 GM ,"
-47 m²
+                       ", 1059 AH ,"
+72 m²
 Living area","
-2
-Rooms"," €2,500 per month"
+3
+Rooms"," €2,800 per month"
 0,"Apartment Parelstraat 20
 
 
@@ -14298,14 +14276,6 @@ Rooms"," €4,500 per month"
 Living area","
 3
 Rooms"," €6,000 per month"
-0,"Apartment George Gershwinlaan
-
-
-                       ", 1082 MT ,"
-75 m²
-Living area","
-2
-Rooms"," €1,700 per month"
 0,"Apartment Amstelveenseweg 142 hs
 
 
@@ -14426,26 +14396,26 @@ Rooms"," €2,150 per month"
 Living area","
 3
 Rooms"," €2,000 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
 0,, 1015 AK ,"311 m²
 Living area","
 9
 Rooms"," €9,850 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
 0,"Apartment Bloemgracht
 
 
@@ -14576,6 +14546,7 @@ Rooms"," €3,500 per month"
 0,"Apartment Heintje Hoekssteeg
 
 
+
                        ", 1012 GR ,"
 75 m²
 Living area","
@@ -14676,22 +14647,6 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
-0,"Apartment Groenburgwal 47 3
-
-
-                       ", 1011 HS ,"
-40 m²
-Living area","
-2
-Rooms"," €2,200 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Driekoningenstraat
 
 
@@ -14700,6 +14655,22 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €3,150 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
 0,"Apartment Oudezijds Achterburgwal 145 I
 
 
@@ -14923,22 +14894,6 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €3,150 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Erasmusgracht
 
 
@@ -14947,6 +14902,22 @@ Rooms"," €2,800 per month"
 Living area","
 3
 Rooms"," €2,000 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Van Ostadestraat
 
 
@@ -15056,14 +15027,6 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
-0,"Apartment Rozenstraat 260 2
-
-
-                       ", 1016 PB ,"
-30 m²
-Living area","
-2
-Rooms"," €2,000 per month"
 0,"Apartment Groenhoven 737
 
 
@@ -15168,22 +15131,6 @@ Rooms"," €2,500 per month"
 Living area","
 4
 Rooms"," €2,950 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
 0,"Apartment Violettenstraat 12 l
 
 
@@ -15197,6 +15144,22 @@ Rooms"," €2,350 per month"
 
                        ", 1079 BS ,"
 60 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
 Living area","
 2
 Rooms"," €2,500 per month"
@@ -15413,22 +15376,6 @@ Rooms"," €4,350 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Groenburgwal 47 3
-
-
-                       ", 1011 HS ,"
-40 m²
-Living area","
-2
-Rooms"," €2,200 per month"
 0,"Apartment Omval 208
 
 
@@ -15443,6 +15390,22 @@ Rooms"," €3,150 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
 0,"Apartment Claude Debussylaan 207 209
 
 
@@ -15567,6 +15530,7 @@ Rooms"," €3,450 per month"
 0,"Apartment Elzenhagensingel 311
 
 
+
                        ", 1022 LA ,"113 m²
 Living area","
 3
@@ -15655,22 +15619,6 @@ Rooms"," €2,500 per month"
 Living area","
 4
 Rooms"," €2,500 per month"
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
 0,"Apartment Van Gentstraat
 
 
@@ -15687,6 +15635,22 @@ Rooms"," €2,150 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
 0,, 1073 ER ,"
 55 m²
 Living area","
@@ -15872,7 +15836,6 @@ Rooms"," €4,200 per month"
 0,"Apartment Buiksloterweg 189 A
 
 
-
                        ", 1031 DA ,"
 75 m²
 Living area","
@@ -15900,22 +15863,6 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €3,650 per month"
-0,"Apartment Parelstraat 20
-
-
-                       ", 1018 AS ,"
-45 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Tweede Schinkelstraat 47 I
 
 
@@ -15932,6 +15879,22 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €2,150 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Raphaëlstraat 25 II
 
 
@@ -16034,14 +15997,6 @@ Rooms"," €2,150 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Riouwstraat 79 C
-
-
-                       ", 1094 XJ ,"
-61 m²
-Living area","
-3
-Rooms"," €2,150 per month"
 0,"Apartment Lange Leidsedwarsstraat 70 E
 
 
@@ -16102,7 +16057,6 @@ Rooms",   €730 per month
 0,"Apartment Vondelstraat 96 D
 
 
-
                        ", 1054 GP ,"
 75 m²
 Living area","
@@ -16147,22 +16101,6 @@ Rooms"," €2,150 per month"
 Living area","
 2
 Rooms"," €2,500 per month"
-0,"Apartment Parelstraat 20
-
-
-                       ", 1018 AS ,"
-45 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
 0,"Apartment Koningin Wilhelminaplein
 
 
@@ -16187,6 +16125,22 @@ Rooms"," €2,000 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
 0,, 1106 ET ,"
 
 8 m²
@@ -16279,9 +16233,8 @@ Rooms"," €2,500 per month"
                        ", 1083 CL ,"127 m²
 Living area","
 4
-Rooms"," €4,050 per month"
+Rooms"," €3,150 per month"
 0,"Apartment Kinkerstraat 81 H
-
 
 
                        ", 1053 DH ,"
@@ -16382,22 +16335,6 @@ Rooms"," €8,000 per month"
 Living area","
 2
 Rooms"," €5,400 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Weteringschans
 
 
@@ -16422,6 +16359,22 @@ Rooms"," €2,300 per month"
 Living area","
 3
 Rooms"," €3,500 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
 0,"Apartment Amstelvlietstraat 612
 
 
@@ -16632,22 +16585,6 @@ Rooms"," €2,150 per month"
 Living area","
 3
 Rooms"," €3,650 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Faas Wilkesstraat 307
 
 
@@ -16672,6 +16609,22 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €3,150 per month"
+0,"Apartment Ruysdaelstraat 36 2
+
+
+                       ", 1071 XD ,"
+65 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
 0,"Apartment Utrechtsestraat 128 II
 
 
@@ -16801,6 +16754,7 @@ Rooms"," €2,600 per month"
 0,"Apartment Plantage Parklaan 18 3
 
 
+
                        ", 1018 ST ,"
 53 m²
 Living area","
@@ -16885,22 +16839,6 @@ Rooms"," €2,600 per month"
 Living area","
 3
 Rooms"," €1,750 per month"
-0,"Apartment Molenpad
-
-
-                       ", 1016 GM ,"
-47 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
 0,"Apartment Markelerbergpad
 
 
@@ -16925,6 +16863,22 @@ Rooms"," €3,500 per month"
 Living area","
 2
 Rooms"," €3,000 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
 0,"Apartment Julius Pergerstraat 57
 
 
@@ -17128,30 +17082,15 @@ Rooms"," €2,000 per month"
 69 m²
 Living area","
 2
-Rooms"," €2,500 per month"
+Rooms"," €3,000 per month"
 0,"Apartment Tasmanstraat 3
+
 
 
                        ", 1013 PW ,"100 m²
 Living area","
 4
 Rooms"," €5,000 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment P. Hans Frankfurthersingel
 
 
@@ -17173,6 +17112,22 @@ Rooms"," €1,700 per month"
 
                        ", 1079 RN ,"
 62 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
 Living area","
 2
 Rooms"," €2,500 per month"
@@ -17386,22 +17341,6 @@ Rooms"," €3,150 per month"
 Living area","
 2
 Rooms"," €3,500 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Spuistraat
 
 
@@ -17426,6 +17365,22 @@ Rooms"," €3,000 per month"
 Living area","
 2
 Rooms",  €1150 per month
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Rijnlandlaan
 
 
@@ -17451,6 +17406,7 @@ Living area","
 3
 Rooms"," €3,000 per month"
 0,"Apartment Burgemeester Hogguerstraat
+
 
 
                        ", 1064 EB ,"
@@ -17634,22 +17590,6 @@ Rooms"," €3,000 per month"
 Living area","
 1
 Rooms",  €2500 per month
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Ruysdaelstraat 36 2
-
-
-                       ", 1071 XD ,"
-65 m²
-Living area","
-2
-Rooms"," €2,150 per month"
 0,"Apartment Van Eeghenstraat 30 2
 
 
@@ -17673,6 +17613,22 @@ Rooms"," €4,000 per month"
 Living area","
 2
 Rooms"," €3,050 per month"
+0,"Apartment Postjesweg 441
+
+
+                       ", 1062 JV ,"
+80 m²
+Living area","
+4
+Rooms"," €2,800 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,"Apartment Staalstraat 14 3A
 
 
@@ -17884,22 +17840,6 @@ Rooms"," €2,000 per month"
 Living area","
 6
 Rooms"," €7,900 per month"
-0,"Apartment Erich Salomonstraat
-
-
-                       ", 1087 GT ,"
-81 m²
-Living area","
-3
-Rooms"," €3,000 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
 0,"Apartment Weerdestein 164
 
 
@@ -17923,6 +17863,22 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €3,000 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment Wijnsilostraat
 
 
@@ -18100,7 +18056,6 @@ Rooms"," €3,000 per month"
 0,"Apartment Kalverstraat
 
 
-
                        ", 1012 XJ ,"
 93 m²
 Living area","
@@ -18124,22 +18079,6 @@ Rooms"," €3,000 per month"
 Living area","
 3
 Rooms"," €2,000 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
 0,"Apartment Lange Leidsedwarsstraat 70 D
 
 
@@ -18161,6 +18100,22 @@ Rooms"," €2,300 per month"
 Living area","
 5
 Rooms",   €850 per month
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
 0,"Apartment Egelantiersstraat 143 B
 
 
@@ -18325,14 +18280,6 @@ Rooms","€11,000 per month"
 Living area","
 3
 Rooms"," €3,150 per month"
-0,"Apartment Nieuwezijds Voorburgwal
-
-
-                       ", 1012 RS ,"
-35 m²
-Living area","
-1
-Rooms"," €2,500 per month"
 0,"Apartment Leidsekruisstraat 52
 
 
@@ -18368,22 +18315,6 @@ Rooms"," €2,350 per month"
 Living area","
 7
 Rooms"," €4,000 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
 0,"Apartment Kerkstraat 83 A
 
 
@@ -18413,6 +18344,22 @@ Rooms"," €1,800 per month"
 
                        ", 1012 NC ,"
 80 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
 Living area","
 3
 Rooms"," €5,000 per month"
@@ -18592,22 +18539,6 @@ Rooms"," €1,700 per month"
 Living area","
 5
 Rooms"," €4,500 per month"
-0,"Apartment Postjesweg 441
-
-
-                       ", 1062 JV ,"
-80 m²
-Living area","
-4
-Rooms"," €2,800 per month"
-0,"Apartment Plantage Parklaan 18 3
-
-
-                       ", 1018 ST ,"
-53 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Gerard Doustraat 88 1A
 
 
@@ -18640,6 +18571,22 @@ Rooms"," €2,500 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Brouwersgracht 248 C
+
+
+                       ", 1013 HE ,"
+78 m²
+Living area","
+2
+Rooms"," €3,000 per month"
 0,"Apartment Herengracht 76 hs
 
 
@@ -18656,7 +18603,6 @@ Living area","
 4
 Rooms"," €5,500 per month"
 0,"Apartment Ferdinand Bolstraat 100 2
-
 
 
                        ", 1072 LN ,"
@@ -18820,7 +18766,6 @@ Rooms"," €3,500 per month"
 0,"Apartment Eerste Laurierdwarsstraat
 
 
-
                        ", 1016 PV ,"
 80 m²
 Living area","
@@ -18841,22 +18786,6 @@ Rooms"," €3,500 per month"
 Living area","
 3
 Rooms"," €4,200 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
-0,"Apartment Jasonstraat 27 H
-
-
-                       ", 1076 KX ,"
-65 m²
-Living area","
-3
-Rooms"," €5,000 per month"
 0,"Apartment Utrechtsedwarsstraat 144 C
 
 
@@ -18887,6 +18816,22 @@ Rooms"," €3,500 per month"
 Living area","
 4
 Rooms"," €3,650 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
 0,"Apartment August Allebéplein 97
 
 
@@ -19071,22 +19016,6 @@ Rooms"," €2,800 per month"
 Living area","
 3
 Rooms"," €2,500 per month"
-0,"Apartment Aalsmeerweg 127 2
-
-
-                       ", 1059 AH ,"
-72 m²
-Living area","
-3
-Rooms"," €2,800 per month"
-0,"Apartment Nieuwevaartweg
-
-
-                       ", 1019 AL ,"
-40 m²
-Living area","
-2
-Rooms"," €1,950 per month"
 0,"Apartment Sophialaan
 
 
@@ -19115,6 +19044,22 @@ Rooms"," €6,000 per month"
 Living area","
 2
 Rooms"," €2,300 per month"
+0,"Apartment Jasonstraat 27 H
+
+
+                       ", 1076 KX ,"
+65 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
 0,"Apartment Sassenheimstraat 73 1
 
 
@@ -19210,14 +19155,6 @@ Rooms",   €900 per month
 Living area","
 1
 Rooms",  €1850 per month
-0,"Apartment Joan Melchior Kemperstraat
-
-
-                       ", 1051 TL ,"
-50 m²
-Living area","
-2
-Rooms"," €1,950 per month"
 0,"Apartment Utrechtsedwarsstraat
 
 
@@ -19310,22 +19247,6 @@ Rooms"," €5,000 per month"
 Living area","
 1
 Rooms",  €1500 per month
-0,"Apartment Brouwersgracht 248 C
-
-
-                       ", 1013 HE ,"
-78 m²
-Living area","
-2
-Rooms"," €3,000 per month"
-0,"Apartment Brouwersgracht 248 B
-
-
-                       ", 1013 HE ,"
-62 m²
-Living area","
-2
-Rooms"," €2,800 per month"
 0,"Apartment Utrechtsedwarsstraat
 
 
@@ -19362,6 +19283,22 @@ Rooms"," €2,150 per month"
 Living area","
 2
 Rooms"," €3,600 per month"
+0,"Apartment Plantage Parklaan 18 3
+
+
+                       ", 1018 ST ,"
+53 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
 0,"Apartment Eosstraat 444
 
 
@@ -19547,22 +19484,6 @@ Rooms"," €7,900 per month"
 Living area","
 2
 Rooms"," €1,700 per month"
-0,"Apartment Parelstraat 20
-
-
-                       ", 1018 AS ,"
-45 m²
-Living area","
-2
-Rooms"," €2,150 per month"
-0,"Apartment Maassluisstraat
-
-
-                       ", 1062 GL ,"
-40 m²
-Living area","
-2
-Rooms"," €2,500 per month"
 0,"Apartment Prinsengracht
 
 
@@ -19600,6 +19521,22 @@ Rooms","€15,000 per month"
 Living area","
 3
 Rooms"," €7,500 per month"
+0,"Apartment Brouwersgracht 248 B
+
+
+                       ", 1013 HE ,"
+62 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
 0,, 1036 KD ,"200 m²
 Living area","10
 Rooms"," €8,000 per month"
@@ -19619,7 +19556,6 @@ Living area","
 2
 Rooms"," €2,500 per month"
 0,"Apartment Prinsengracht 299 B
-
 
 
                        ", 1016 GX ,"
@@ -19776,3 +19712,1019 @@ Rooms"," €3,000 per month"
 Living area","
 4
 Rooms"," €2,500 per month"
+0,"Apartment Nieuwe Herengracht
+
+
+                       ", 1011 RL ,"
+58 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Herenmarkt
+
+
+                       ", 1013 ED ,"
+55 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Nieuwezijds Voorburgwal
+
+
+                       ", 1012 SJ ,"
+65 m²
+Living area","
+2
+Rooms"," €2,300 per month"
+0,"Apartment Rijnstraat 250 I
+
+
+                       ", 1079 HW ,"
+65 m²
+Living area","
+3
+Rooms"," €3,150 per month"
+0,"Apartment Rosy Wertheimstraat
+
+
+                       ", 1082 MZ ,"
+85 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Parelstraat 20
+
+
+                       ", 1018 AS ,"
+45 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Erich Salomonstraat
+
+
+                       ", 1087 GT ,"
+81 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Droogbak
+
+
+                       ", 1013 GG ,"
+70 m²
+Living area","
+3
+Rooms"," €4,000 per month"
+0,"Apartment Amstel 192 A
+
+
+                       ", 1017 AG ,"105 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Leliegracht 12 II
+
+
+                       ", 1015 DE ,"160 m²
+Living area","
+4
+Rooms"," €4,350 per month"
+0,, 1077 XM ,"171 m²
+Living area","
+6
+Rooms"," €8,000 per month"
+0,"Apartment Nieuwezijds Voorburgwal 347 II
+
+
+                       ", 1012 RM ,"105 m²
+Living area","
+4
+Rooms"," €5,500 per month"
+0,"Apartment Van der Hoopstraat
+
+
+                       ", 1051 VN ,"
+50 m²
+Living area","
+2
+Rooms"," €3,500 per month"
+0,"Apartment Stadionkade 19 III
+
+
+                       ", 1077 VK ,"240 m²
+Living area","
+8
+Rooms"," €8,000 per month"
+0,"Apartment Leksmondhof 294
+
+
+                       ", 1108 GB ,"
+70 m²
+Living area","
+3
+Rooms"," €2,000 per month"
+0,"Apartment Lauriergracht
+
+
+                       ", 1016 RJ ,"100 m²
+Living area","
+3
+Rooms"," €3,650 per month"
+0,"Apartment Rijnlandlaan
+
+
+                       ", 1062 MX ,"118 m²
+Living area","
+4
+Rooms"," €3,450 per month"
+0,"Apartment Krom Boomssloot 61
+
+
+                       ", 1011 GS ,"
+60 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Rokin 18 C
+
+
+                       ", 1012 KR ,"
+55 m²
+Living area","
+2
+Rooms"," €4,000 per month"
+0,"Apartment Prinsengracht
+
+
+                       ", 1015 DT ,"
+95 m²
+Living area","
+2
+Rooms"," €3,500 per month"
+0,"Apartment Koopvaardersplantsoen
+
+
+                       ", 1034 KE ,"130 m²
+Living area","
+4
+Rooms"," €3,500 per month"
+0,"Apartment Koopvaardersplantsoen
+
+
+                       ", 1034 KE ,"110 m²
+Living area","
+4
+Rooms"," €4,000 per month"
+0,"Apartment Bolestein
+
+
+                       ", 1081 EM ,"
+90 m²
+Living area","
+3
+Rooms"," €2,150 per month"
+0,, 1105 BM ,"
+85 m²
+Living area","
+3
+Rooms"," €2,350 per month"
+0,"Apartment Gustav Mahlerlaan 242
+
+
+                       ", 1082 ME ,"144 m²
+Living area","
+3
+Rooms"," €4,700 per month"
+0,"Apartment Kerkstraat
+
+
+                       ", 1017 HW ,"
+80 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,, 1017 KA ,"
+80 m²
+Living area","
+1
+Rooms"," €3,600 per month"
+0,"Apartment Keizersgracht 337 H
+
+
+                       ", 1016 EG ,"130 m²
+Living area","
+4
+Rooms"," €5,500 per month"
+0,"Apartment Tweede Hugo de Grootstraat 45 T
+
+
+                       ", 1052 LB ,"
+71 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Westhavenweg
+
+
+                       ", 1042 AL ,"110 m²
+Living area","
+5
+Rooms"," €5,500 per month"
+0,"Apartment Duivendrechtsekade
+
+
+                       ", 1096 AH ,"
+19 m²
+Living area","
+1
+Rooms",   €700 per month
+0,"Apartment Rustenburgerstraat 146 A20
+
+
+                       ", 1073 GJ ,"
+55 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Amstelveld 3
+
+
+                       ", 1017 JD ,"130 m²
+Living area","
+3
+Rooms"," €6,200 per month"
+0,"Apartment Jollenpad 10 B
+
+
+                       ", 1081 KC ,"
+95 m²
+Living area","
+3
+Rooms"," €9,000 per month"
+0,"Apartment Heathrowstraat
+
+
+                       ", 1043 CE ,"
+21 m²
+Living area","
+1
+Rooms",   €890 per month
+0,"Apartment Singel
+
+
+                       ", 1016 AA ,"
+85 m²
+Living area","
+3
+Rooms"," €5,500 per month"
+0,"Apartment Dufaystraat
+
+
+                       ", 1075 GS ,"
+74 m²
+Living area","
+2
+Rooms"," €4,450 per month"
+0,"Apartment Molenpad
+
+
+                       ", 1016 GM ,"
+47 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Maassluisstraat
+
+
+                       ", 1062 GL ,"
+40 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Lauriergracht
+
+
+                       ", 1016 RV ,"
+37 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment IJdok
+
+
+                       ", 1013 MM ,"
+55 m²
+Living area","
+2
+Rooms"," €4,500 per month"
+0,"Apartment Amstelveenseweg
+
+
+                       ", 1075 XL ,"
+70 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Koningslaan 24 B
+
+
+                       ", 1075 AD ,"
+95 m²
+Living area","
+3
+Rooms"," €9,000 per month"
+0,, 1016 TA ,"100 m²
+Living area","
+4
+Rooms"," €4,650 per month"
+0,"Apartment Leidsegracht 94 A bel
+
+
+                       ", 1016 CS ,"
+85 m²
+Living area","
+4
+Rooms"," €5,000 per month"
+0,"Apartment Van Baerlestraat
+
+
+                       ", 1071 AS ,"
+80 m²
+Living area","
+3
+Rooms"," €3,650 per month"
+0,"Apartment Damrak 11 I
+
+
+                       ", 1012 LG ,"
+74 m²
+Living area","
+4
+Rooms"," €4,350 per month"
+0,"Apartment Van Leijenberghlaan
+
+
+                       ", 1082 GM ,"116 m²
+Living area","
+4
+Rooms"," €4,050 per month"
+0,"Apartment Koningin Wilhelminaplein
+
+
+                       ", 1062 KS ,"105 m²
+Living area","
+4
+Rooms"," €5,000 per month"
+0,"Apartment Koningin Wilhelminaplein
+
+
+                       ", 1062 KS ,"
+90 m²
+Living area","
+3
+Rooms"," €4,000 per month"
+0,"Apartment S. F. van Ossstraat
+
+
+                       ", 1068 JS ,"
+80 m²
+Living area","
+4
+Rooms"," €3,500 per month"
+0,"Apartment Pieter Lastmankade
+
+
+                       ", 1075 KJ ,"
+75 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Nieuwe Oostenburgerstraat 2 A
+
+
+                       ", 1018 MG ,"
+51 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Jacob van Wassenaar Obdamstraat
+
+
+                       ", 1057 JR ,"
+70 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Omval 305
+
+
+                       ", 1096 HR ,"
+87 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Joan Melchior Kemperstraat 70
+
+
+                       ", 1051 TT ,"
+58 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Koningin Wilhelminaplein
+
+
+                       ", 1062 KS ,"
+64 m²
+Living area","
+2
+Rooms"," €2,850 per month"
+0,"Apartment Koningin Wilhelminaplein
+
+
+                       ", 1062 KR ,"
+64 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Eerste Oosterparkstraat 11 I
+
+
+                       ", 1091 GT ,"
+80 m²
+Living area","
+3
+Rooms"," €4,450 per month"
+0,"Apartment Esmoreitstraat
+
+
+                       ", 1055 BX ,"
+60 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Gaasterlandstraat 210
+
+
+                       ", 1079 RH ,"
+65 m²
+Living area","
+2
+Rooms"," €2,350 per month"
+0,"Apartment Van Middellandtstraat
+
+
+                       ", 1057 AP ,"
+90 m²
+Living area","
+4
+Rooms"," €3,000 per month"
+0,"Apartment Van Nijenrodeweg 546
+
+
+                       ", 1082 HS ,"
+90 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,"Apartment Albert Cuypstraat
+
+
+                       ", 1073 BD ,"
+55 m²
+Living area","
+2
+Rooms"," €1,700 per month"
+0,"Apartment Govert Flinckstraat 52 4
+
+
+                       ", 1072 EJ ,"
+50 m²
+Living area","
+2
+Rooms"," €2,300 per month"
+0,"Apartment Eerste Atjehstraat 29 Huis
+
+
+                       ", 1094 KA ,"
+52 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment De Wittenkade 172 1
+
+
+                       ", 1051 AP ,"
+49 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Jasper Leijnsenstraat 15 1
+
+
+                       ", 1056 XV ,"
+51 m²
+Living area","
+3
+Rooms"," €2,000 per month"
+0,"Apartment Koggestraat
+
+
+                       ", 1012 TA ,"
+89 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Nieuwevaartweg
+
+
+                       ", 1019 AL ,"
+40 m²
+Living area","
+2
+Rooms"," €1,950 per month"
+0,"Apartment Rinus Michelslaan 239
+
+
+                       ", 1061 MB ,"
+60 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Uithoornstraat
+
+
+                       ", 1078 ST ,"
+56 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Beethovenstraat
+
+
+                       ", 1077 JA ,"104 m²
+Living area","
+4
+Rooms"," €3,150 per month"
+0,"Apartment Jacques Veltmanstraat
+
+
+                       ", 1065 DB ,"
+85 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Bosboom Toussaintstraat
+
+
+                       ", 1054 AN ,"125 m²
+Living area","
+4
+Rooms"," €2,950 per month"
+0,"Apartment Lord Kelvinstraat
+
+
+                       ", 1098 SG ,"
+70 m²
+Living area","
+3
+Rooms"," €2,200 per month"
+0,"Apartment Hoofdweg 425 II
+
+
+                       ", 1056 CV ,"
+54 m²
+Living area","
+3
+Rooms"," €2,300 per month"
+0,"Apartment Pijnackerstraat 22 H
+
+
+                       ", 1072 JT ,"
+39 m²
+Living area","
+1
+Rooms"," €1,300 per month"
+0,"Apartment Gerard Brandtstraat 1 A
+
+
+                       ", 1054 JH ,"
+54 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Bilderdijkstraat
+
+
+                       ", 1053 KS ,"
+62 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Vrolikstraat 290
+
+
+                       ", 1092 VA ,"
+58 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Kuipersstraat 149 A7
+
+
+                       ", 1073 ER ,"
+50 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Van der Hoopstraat 128 3
+
+
+                       ", 1051 VN ,"
+42 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment Pretoriusstraat
+
+
+                       ", 1092 GH ,"
+60 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Jan Willem Brouwersstraat
+
+
+                       ", 1071 LJ ,"125 m²
+Living area","
+6
+Rooms"," €3,500 per month"
+0,"Apartment Newtonstraat 73 II
+
+
+                       ", 1098 HA ,"
+60 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Tweede Jan van der Heijdenstraat 12 3
+
+
+                       ", 1073 VH ,"
+57 m²
+Living area","
+2
+Rooms"," €2,150 per month"
+0,"Apartment Rhijnvis Feithstraat 31 H
+
+
+                       ", 1054 TV ,"108 m²
+Living area","
+4
+Rooms"," €3,650 per month"
+0,"Apartment Rooseveltlaan 63
+
+
+                       ", 1079 AD ,"111 m²
+Living area","
+4
+Rooms"," €4,750 per month"
+0,"Apartment Rustenburgerstraat 126 H
+
+
+                       ", 1073 GH ,"
+45 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Van Ostadestraat 188 III
+
+
+                       ", 1072 TH ,"
+48 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Laurierstraat 65 D
+
+
+                       ", 1016 PJ ,"
+55 m²
+Living area","
+2
+Rooms"," €2,800 per month"
+0,"Apartment Nieuwe Oostenburgerstraat 2 B
+
+
+                       ", 1018 MG ,"
+51 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Javastraat 97 III
+
+
+                       ", 1094 HC ,"
+62 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Johan van der Keukenstraat 83 F
+
+
+                       ", 1087 BC ,"
+45 m²
+Living area","
+1
+Rooms"," €2,500 per month"
+0,"Apartment Minervaplein
+
+
+                       ", 1077 TS ,"110 m²
+Living area","
+3
+Rooms"," €3,450 per month"
+0,"Apartment Bolestein 678
+
+
+                       ", 1081 EM ,"
+93 m²
+Living area","
+4
+Rooms"," €4,000 per month"
+0,"Apartment Biesboschstraat 9 3
+
+
+                       ", 1078 MK ,"120 m²
+Living area","
+4
+Rooms"," €5,500 per month"
+0,"Apartment Schimmelstraat
+
+
+                       ", 1053 TA ,"
+75 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Orteliuskade 64 2
+
+
+                       ", 1057 AM ,"
+54 m²
+Living area","
+2
+Rooms"," €2,000 per month"
+0,"Apartment President Kennedylaan 14 I
+
+
+                       ", 1079 NC ,"
+70 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Groenburgwal 47 3
+
+
+                       ", 1011 HS ,"
+40 m²
+Living area","
+2
+Rooms"," €2,200 per month"
+0,"Apartment Aalsmeerweg 127 2
+
+
+                       ", 1059 AH ,"
+72 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,"Apartment Rustenburgerstraat 154 A
+
+
+                       ", 1073 GJ ,"
+47 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,, 1023 ND ,"112 m²
+Living area","
+5
+Rooms"," €2,500 per month"
+0,"Apartment Eerste Atjehstraat 39 3
+
+
+                       ", 1094 KB ,"
+55 m²
+Living area","
+3
+Rooms"," €2,500 per month"
+0,"Apartment Bloys van Treslongstraat
+
+
+                       ", 1056 XB ,"
+60 m²
+Living area","
+3
+Rooms"," €1,700 per month"
+0,"Apartment Westlandgracht 249 II
+
+
+                       ", 1059 TS ,"
+62 m²
+Living area","
+4
+Rooms"," €3,000 per month"
+0,"Apartment Van Ostadestraat
+
+
+                       ", 1073 TW ,"
+85 m²
+Living area","
+3
+Rooms"," €5,000 per month"
+0,"Apartment Graafschapstraat
+
+
+                       ", 1079 PE ,"
+69 m²
+Living area","
+3
+Rooms"," €3,500 per month"
+0,"Apartment Haparandadam 2 e2
+
+
+                       ", 1013 AK ,"
+60 m²
+Living area","
+1
+Rooms"," €3,500 per month"
+0,"Apartment Albert Cuypstraat 98 I
+
+
+                       ", 1072 CX ,"
+31 m²
+Living area","
+2
+Rooms"," €3,500 per month"
+0,"Apartment Borssenburgstraat 23 II
+
+
+                       ", 1078 VB ,"
+54 m²
+Living area","
+3
+Rooms"," €3,000 per month"
+0,"Apartment Nassaukade
+
+
+                       ", 1052 CP ,"
+57 m²
+Living area","
+2
+Rooms"," €1,700 per month"
+0,"Apartment Lange Leidsedwarsstraat 30 E
+
+
+                       ", 1017 NL ,"
+50 m²
+Living area","
+2
+Rooms"," €2,350 per month"
+0,"Apartment Johan van der Keukenstraat 75 E-1
+
+
+                       ", 1087 BC ,"
+47 m²
+Living area","
+1
+Rooms"," €2,500 per month"
+0,"Apartment Piet Gijzenbrugstraat
+
+
+                       ", 1059 XD ,"
+51 m²
+Living area","
+3
+Rooms"," €2,150 per month"
+0,"Apartment Carnapstraat 105
+
+
+                       ", 1062 KX ,"
+95 m²
+Living area","
+3
+Rooms"," €2,200 per month"
+0,"Apartment Cornelis Anthoniszstraat 32 3
+
+
+                       ", 1071 VV ,"
+45 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Transvaalkade 130
+
+
+                       ", 1091 LT ,"
+60 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Zeedijk 97 I
+
+
+                       ", 1012 AT ,"
+49 m²
+Living area","
+2
+Rooms"," €2,500 per month"
+0,"Apartment Andries Copierstraat 116
+
+
+                       ", 1061 SE ,"
+86 m²
+Living area","
+3
+Rooms"," €2,300 per month"
+0,"Apartment Warmoesstraat
+
+
+                       ", 1012 JE ,"
+35 m²
+Living area","
+2
+Rooms"," €1,300 per month"
+0,"Apartment Wittgensteinlaan 66
+
+
+                       ", 1062 KB ,"
+89 m²
+Living area","
+3
+Rooms"," €1,500 per month"
+0,, 1062 KT ,"139 m²
+Living area","
+5
+Rooms"," €3,500 per month"
+0,"Apartment Van Ostadestraat 367 III
+
+
+                       ", 1074 VW ,"
+43 m²
+Living area","
+2
+Rooms"," €3,000 per month"
+0,"Apartment Circusplein 2
+
+
+                       ", 1033 ZE ,"
+68 m²
+Living area","
+3
+Rooms"," €2,150 per month"
+0,"Apartment Jacob Burggraafstraat
+
+
+                       ", 1018 WA ,"105 m²
+Living area","
+2
+Rooms"," €2,350 per month"
+0,, 1017 EH ,"250 m²
+Living area","
+7
+Rooms","€12,500 per month"
+0,"Apartment Het Hoogt 182
+
+
+                       ", 1025 HE ,"
+57 m²
+Living area","
+2
+Rooms"," €2,350 per month"
+0,"Apartment Esplanade de Meer
+
+
+                       ", 1098 WK ,"
+83 m²
+Living area","
+3
+Rooms"," €2,800 per month"
+0,"Apartment Riouwstraat 79 C
+
+
+                       ", 1094 XJ ,"
+61 m²
+Living area","
+3
+Rooms"," €2,150 per month"
+0,"Apartment Gelrestraat
+
+
+                       ", 1079 MZ ,"
+55 m²
+Living area","
+2
+Rooms"," €3,000 per month"
