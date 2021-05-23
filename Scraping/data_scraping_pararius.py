@@ -45,7 +45,7 @@ for ad in ads:
     full_postcode = new_item[start_postcode:end_postcode]
     end_size = new_item.find("Living area")
     start_size = end_size - 7
-    full_size = new_item[start_size +1 :end_size -3]
+    full_size = new_item[start_size :end_size -3]
     end_rooms = new_item.find("Rooms")
     start_rooms = end_rooms - 3
     full_rooms = new_item[start_rooms +1 :end_rooms - 1]
@@ -79,7 +79,7 @@ while current_value <= 84:
         full_postcode = new_item[start_postcode:end_postcode]
         end_size = new_item.find("Living area")
         start_size = end_size - 7
-        full_size = new_item[start_size +1 :end_size -3]
+        full_size = new_item[start_size -1:end_size -3]
         end_rooms = new_item.find("Rooms")
         start_rooms = end_rooms - 3
         full_rooms = new_item[start_rooms +1:end_rooms -1]
@@ -92,11 +92,12 @@ while current_value <= 84:
             full_rooms, 
             full_prize
             ]]
-        df = df.append(pd.DataFrame(summary, columns = ['Address', 'Postcode', 'Size in m²', 'Rooms', 'Prize in €']))#
+        df = df.append(pd.DataFrame(summary, columns = ['Address', 'Postcode', 'Size in m²', 'Rooms', 'Prize in €']))
     current_value += 1
 
 df.to_csv('pararius_scraped.csv')
-print(df.head())
+df.to_csv('pararius_scraped2.csv')
+print(df.head(20))
 
 #was alternative: 
 # current_value = 2
