@@ -19,3 +19,7 @@ df['Numerical values'] = pd.to_numeric(df['Numerical values'], errors='coerce') 
 print(df['Numerical values'].unique())
 print('-----------checking the datatype of our new column-----------\n')
 print('The datatype is:',df['Numerical values'].dtypes) #It worked :)
+
+#Identifiying missing values in the whole data set:
+missing_data = df.isnull()
+missing_data.head(10) #returns false because we are not missing any values.
