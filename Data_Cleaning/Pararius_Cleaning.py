@@ -29,3 +29,15 @@ df.head(5)
 #1.1.Check for missing values:
 missing_data = df.isnull()
 missing_data.head(10) #returns false because we are not missing any values.
+
+# DATA EXPLORATION: 
+# Is there a relation between size in m2 and Numerical values?
+# groupby to find the average prize of a property based on size in m2
+import matplotlib.pyplot as plt
+
+#First we select the columns we are interested in:
+df_group_one = df[['Size in m²', 'Numerical values']]
+# Second: grouping results based on Size in m2 : Does Size in m2 has an influence on price?
+df_Size_m2 = df_group_one.groupby(['Size in m²']).mean()
+df_Size_m2 #As you can see above, Size in m2 needs to be also converted to float, as price. 
+# Next we could try again to find the average. 
