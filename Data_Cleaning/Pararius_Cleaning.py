@@ -1,10 +1,10 @@
 import pandas as pd
+import numpy as np
 data = pd.read_csv('pararius_scraped.csv')
-df = pd.DataFrame(
-    data, columns=['Address', 'Postcode', 'Size', 'Rooms', 'Prize'])
-print(df.head())
+df = pd.DataFrame(data, columns = ['Address', 'Postcode', 'Size in m²', 'Rooms', 'Prize in €'])
+df.head(10)
 # Data cleaning:
-#Prize into Numerical values: 
+#Prize into Numerical value: 
 df['Prize in €'] = df['Prize in €'].str.replace(',', '') #First we remove the comma's - otherwise our .split() method in the next section will not work properly.
 print('-----------Price column values before preprocessing-----------\n')
 print(df['Prize in €'].unique())
@@ -20,6 +20,12 @@ print(df['Numerical values'].unique())
 print('-----------checking the datatype of our new column-----------\n')
 print('The datatype is:',df['Numerical values'].dtypes) #It worked :)
 
-#Identifiying missing values in the whole data set:
+#1Handle missing values, convert ? to NaN in the whole data set: 
+
+# replace "?" to NaN
+df.replace("?", np.nan, inplace = True)
+df.head(5)
+
+#1.1.Check for missing values:
 missing_data = df.isnull()
 missing_data.head(10) #returns false because we are not missing any values.
