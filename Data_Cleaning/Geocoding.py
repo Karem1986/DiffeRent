@@ -6,7 +6,7 @@ from pprint import pprint
 
 data = pd.read_csv('pararius_scraped.csv')
 df = pd.DataFrame(data, columns = ['Address', 'Postcode', 'Size in m²', 'Rooms', 'Prize in €', 'Price/Sqm', 'Latitude', 'Longitude'])
-df['address_for_geo'] = df['Postcode'] + ', Amsterdam, Netherlands'
+df['address_for_geo'] = df['Address']+ ', ' + df['Postcode'] + ', Amsterdam, Netherlands'
 
 app = Nominatim(user_agent="tutorial")
 
