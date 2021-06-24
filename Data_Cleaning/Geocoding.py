@@ -1,15 +1,12 @@
 import pandas as pd
 import numpy as np
-data = pd.read_csv('pararius_scraped.csv')
-df = pd.DataFrame(data, columns = ['Address', 'Postcode', 'Size in m²', 'Rooms', 'Prize in €', 'Price/Sqm'])
-
-
-df['address_for_geo'] = df['Address']+ ', ' + df['Postcode'] + ', Amsterdam, Netherlands'
-print(df.head(10))
-
 from geopy.geocoders import Nominatim
 import time
 from pprint import pprint
+
+data = pd.read_csv('pararius_scraped.csv')
+df = pd.DataFrame(data, columns = ['Address', 'Postcode', 'Size in m²', 'Rooms', 'Prize in €', 'Price/Sqm', 'Latitude', 'Longitude'])
+df['address_for_geo'] = df['Postcode'] + ', Amsterdam, Netherlands'
 
 app = Nominatim(user_agent="tutorial")
 
@@ -40,4 +37,4 @@ df['Longitude'] = Longitude
 df.drop(columns=['address_for_geo'], inplace = True)
 print(df.head(10))
 
-df.to_csv("pararius_scraped.csv", index=False)
+#df.to_csv("pararius_scraped.csv", index=False)
