@@ -31,8 +31,6 @@ print(df.max())
 #print(df.loc[df['Price/Sqm'] < 2])
 #df.drop(labels=1940, axis=0, inplace=True)
 
-print(df.loc[df['Price/Sqm'] > 100])
-
 
 
 #df.to_csv("pararius_scraped.csv")
